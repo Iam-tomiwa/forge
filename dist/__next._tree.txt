@@ -1,0 +1,4 @@
+:HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/b135bc2b4e763e7d.css","style"]
+:HL["/_next/static/css/248e643c9219da09.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"IiLlZXvfLA2F0WBUyVUHS"}

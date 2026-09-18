@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://forge.example.com/
+Sitemap: https://forge.example.com/sitemap.xml
